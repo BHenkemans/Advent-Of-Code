@@ -1,0 +1,1 @@
+1. cargo new --lib day-01
